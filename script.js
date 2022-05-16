@@ -1,6 +1,6 @@
 const selectEl = document.getElementById('select');
 const registrationImage = document.getElementById('planet-img');
-
+ 
 selectEl.addEventListener('change', function() {
 
 switch(true) {
